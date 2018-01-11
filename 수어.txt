@@ -1,0 +1,35 @@
+HTML = contents  (프로그래밍 언어 X)
+- basic structure -
+<!DOCTYPE html> : html이라고 선언
+<meta charset="utf-8"> : 언어
+<title>
+<body>
+<h1>
+<p> : paragraph
+</html> 닫음
+-------------------------------------
+CSS = style / layout  (프로그래밍 언어 X)
+link rel = "stylesheet" sref = "style.css"
+hsl : (hue, saturation, lightness)
+-------------------------------------
+JS = dynamic... stuff...(프로그래밍 언어 O)
+titleElement = document.querySelector('#title')
+contentElement = document.querySelector('#content')
+-------------------------------------
+<h1 id(속성. 이 요소가 어떤 특성을 가지고 있는지 표현)="website-title">My Website </h1>
+-------------------------------------
+가장 많이 사용하는 요소
+
+1. <title> (html이라고 atom에서 치면 나오는 틀 그대로 쓰면 됨)
+2. <p>
+3. <div> </div>
+4. <article> <section>
+5. <a href = "~~~~~~~"> : 링크
+6. <img src>
+7. <figure>
+-----------------------------
+developer.mozila.org
+-----------------------------
+Git = version control system
+
+push: 반영
